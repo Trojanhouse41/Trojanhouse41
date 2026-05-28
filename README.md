@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Sandra! 
 
-<img src="cute-cat.gif" width="300px" alt="cute cat" align="right">
+<img src="cute-cat.gif" width="300px" alt="cute cat" align="left">
 
   📍 Nairobi, Kenya |  Women in Tech @ KCA University 
 
