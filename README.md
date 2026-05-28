@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Cat Image (Make sure to replace the filename!) -->
-<img src="cute-cat.gif" width="90px" alt="cute cat" style="margin-bottom: 15px;">
+<img src="cute-cat.gif" width="300px" alt="cute cat" style="margin-bottom: 15px;">
 
 <br>
 
