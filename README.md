@@ -1,23 +1,21 @@
 <div align="center">
 
-### Hi there! I'm Sandra Adhiambo! 👩‍💻✨
+# ✨ Hi, I'm Sandra Adhiambo! 👩‍💻
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200px" alt="Cute Cat with Big Eyes">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" alt="wave">
 
-📍 Nairobi, Kenya | 🎓 Women in Tech @ KCA University
-🔭 Building interactive dashboards, AI apps & visual tools
-💬 Ask me about: R Shiny, React, Python, PartyRock, Data Visualization
+📍 Nairobi, Kenya | 🎓 Women in Tech @ KCA University  
+🔭 Building: React • R Shiny • Python • PartyRock • Data Viz  
+💬 Ask me about: Dashboards, AI apps, student wellness tech  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/PartyRock-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="PartyRock">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
 ---
 
@@ -25,8 +23,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🧠 MoodPulse-KE](https://github.com/Trojanhouse41/MoodPulse-KE) | Mental wellness app for Kenyan students | PartyRock, AWS |
-| [🌊 AquaFever Dashboard](https://github.com/Trojanhouse41/AquaFever-Dashboard) | R Shiny data visualization | R, Shiny |
-| [📐 Distance Visualizer](https://github.com/Trojanhouse41/DistanceVisualizer) | Interactive 2D/3D pathfinding | Python, Matplotlib |
+| [🌊 AquaFever Dashboard](https://github.com/Trojanhouse41/AquaFever-Dashboard) | Interactive R Shiny data viz | R, Shiny, Plotly |
+| [📐 Distance Visualizer](https://github.com/Trojanhouse41/DistanceVisualizer) | 2D/3D pathfinding & metrics | Python, Matplotlib |
 
 ---
 
