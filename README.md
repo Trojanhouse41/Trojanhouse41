@@ -1,8 +1,7 @@
 <div align="center">
 
 # ✨ Hi, I'm Sandra Adhiambo! 👩‍💻
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="60px" alt="sparkle cat">
+<img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="60px" alt="kawaii cat">
 
 📍 Nairobi, Kenya | 🎓 Women in Tech @ KCA University  
 🔭 Building: React • R Shiny • Python • PartyRock • Data Viz  
