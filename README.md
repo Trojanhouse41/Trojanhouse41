@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there! I'm Sandra! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="40px" alt="wave" style="vertical-align: middle;">
+### Hi there! I'm Sandra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand">
 
 <img src="cute-cat.gif" width="80px" alt="cute cat">
 
