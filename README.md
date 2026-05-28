@@ -7,7 +7,7 @@
 </h1>
 
 <!-- YOUR CAT IMAGE HERE: Change the name inside the quotes! -->
-<img src="cute-cat.gif" width="90px" alt="cute cat" style="margin-bottom: 15px;">
+<img src="cute-cat.gif" width="500px" alt="cute cat" style="margin-bottom: 15px;">
 
 <br>
 
