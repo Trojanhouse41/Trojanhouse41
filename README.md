@@ -6,17 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="wave" style="vertical-align: middle;">
 </h1>
 
-<!-- Typing Animation -->
-<h3 style="color: #9370DB; font-family: monospace; background: linear-gradient(90deg, #ff69b4, #9370DB, #00CED1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% auto; animation: gradient 3s linear infinite;">
-  👾 Developer | 🎨 Designer | 🚀 Innovator
+<h3 style="color: #9370DB; font-family: monospace;">
+  👾 Developer | 🎨 Designer |  Innovator
 </h3>
-
-<style>
-@keyframes gradient {
-  0% { background-position: 0% center; }
-  100% { background-position: 200% center; }
-}
-</style>
 
 <!-- YOUR CAT IMAGE -->
 <img src="cute-cat.gif" width="500px" alt="cute cat" style="margin: 20px 0; border-radius: 20px; box-shadow: 0 8px 16px rgba(255,105,180,0.3); border: 3px solid #FF69B4;">
@@ -31,17 +23,10 @@
 
 ### 🎯 About Me
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.pronouns = "She/Her"
-        self.location = " Somewhere on Earth 🌍"
-        self.interests = ["Coding", "Design", "Cats", "Coffee", "Research"]
-        self.fun_fact = "I debug with rubber ducks 🦆"
-    
-    def currently_doing(self):
-        return " Building cool projects & learning new things!"
-```
+- 🌍 **Location:** Somewhere on Earth
+-  **Interests:** Coding, Design, Cats, Coffee, and Research
+- 🦆 **Fun Fact:** I debug with rubber ducks!
+-  **Currently:** Building cool projects & learning new things!
 
 ---
 
@@ -63,15 +48,9 @@ class AboutMe:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub">
 </div>
 
-**Design:**
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-C413C4?style=for-the-badge&logo=canva&logoColor=white&labelColor=1a1a1a" alt="Canva">
-</div>
-
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <table>
@@ -114,31 +93,12 @@ class AboutMe:
   
 | Fact | Details |
 |------|---------|
-| 🦆 | I use rubber duck debugging ,lol |
-| ☕ | Coffee is my fuel |
+|  | I use rubber duck debugging |
+|  | Coffee is my fuel |
 | 🐱 | Cat person (obviously) |
-| 🌙 | Night owl coder |
+|  | Night owl coder |
 | 🎵 | Code with music on |
 
-</div>
-
----
-
-###  Let's Connect
-
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://discord.gg/yourdiscord">
-    <img src="https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
 </div>
 
 ---
@@ -149,23 +109,10 @@ class AboutMe:
 
 ---
 
-###  Support My Work
-
-<div align="center">
-  <a href="https://buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
-</div>
-
----
-
 <!-- Animated Footer with Snake -->
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/images/7167.gif" width="100%" alt="snake animation" style="margin-top: 20px; border-radius: 10px;">
 
-**Thanks for stopping by!** Come back soon!   
+**Thanks for stopping by!** Come back soon! 👋  
 Made with ❤️ and lots of ☕
 
 </div>
