@@ -23,9 +23,9 @@
 
 ### 🎯 About Me
 
-- 🌍 **Location:** Somewhere on Earth
+-  **Location:** Somewhere on Earth 🌍
 -  **Interests:** Coding, Design, Cats, Coffee, and Research
-- 🦆 **Fun Fact:** I debug with rubber ducks!
+-  **Fun Fact:** I debug with rubber ducks!🦆
 -  **Currently:** Building cool projects & learning new things!
 
 ---
@@ -93,10 +93,10 @@
   
 | Fact | Details |
 |------|---------|
-|  | I use rubber duck debugging |
+|  | I use rubber duck debugging, lol |
 |  | Coffee is my fuel |
 | 🐱 | Cat person (obviously) |
-|  | Night owl coder |
+|  | Night owl coder ,lol |
 | 🎵 | Code with music on |
 
 </div>
